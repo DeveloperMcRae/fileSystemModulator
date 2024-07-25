@@ -1,0 +1,17 @@
+{
+  "name": "filesystemmodulator",
+  "version": "1.0.0",
+  "description": "File System Modulator is a package utilizing and Simplifying the Node built-in fs module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
